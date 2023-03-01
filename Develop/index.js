@@ -31,20 +31,18 @@ const questions = [
         type: "input",
         message: "What are the steps (if any) for installation?",
         name: "installation",
-        validate: (value) => value ? true : 'N/A'
     },
     {
         type: "list",
         message: "What license did you use",
         name: "license",
-        chocies: ['MIT License', 'GNU License', 'GPL License', 'Apache License'],
-        validate: (value) => value ? true : 'N/A'
+        chocies: ['MIT License', 'GNU License', 'GPL License', 'Apache License', 'N/A'],
+        validate: (value) => value ? true : tryAgain
     },
     {
         type: "input",
         message: "How may others contribute, if at all?",
         name: "contributions",
-        validate: (value) => value ? true : 'N/A'
     },
     {
         type: "input",
