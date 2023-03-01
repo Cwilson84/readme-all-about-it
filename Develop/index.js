@@ -10,12 +10,7 @@ const questions = [
         name: "title",
         validate: (value) => value ? true : tryAgain
     },
-    {
-        type: "input",
-        message: "Do you have a table of contents",
-        name: "table of contents",
-    },
-    {
+   {
         type: "input",
         message: "How would you describe your project?",
         name: "description",
@@ -23,7 +18,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "How do you use this?",
+        message: "How do you use it?",
         name: "usage",
         validate: (value) => value ? true : tryAgain
     },
@@ -36,7 +31,7 @@ const questions = [
         type: "list",
         message: "What license did you use",
         name: "license",
-        chocies: ['MIT License', 'GNU License', 'GPL License', 'Apache License', 'N/A'],
+        choices: ['MIT License', 'GNU License', 'GPL License', 'Apache License', 'N/A'],
         validate: (value) => value ? true : tryAgain
     },
     {
