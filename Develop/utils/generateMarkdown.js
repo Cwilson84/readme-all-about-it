@@ -64,7 +64,7 @@ ${data.credits}
 
 ## Questions
 
-If you have any questions, please contact ${data.author} at ${data.email}, or ${data.github}.
+If you have any questions, please contact me at ${data.email}, or find me on Github, username: ${data.github}.
 `;
 }
 
