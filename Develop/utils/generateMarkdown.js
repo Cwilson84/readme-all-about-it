@@ -12,17 +12,20 @@ function renderLicenseBadge(license) {
   }
 };
 
-function renderLicenseLink(license) {
-  (license) => license ? '*[license](#license)' : ' ';
-};
 
 function renderLicenseSection(license) {
-  (license) => license ? `##license: ${license}` : ' ';
+  return license === 'N/A' ? ' ' : `## License: 
+${license}`;
 }
 
+
 function generateMarkdown(data) {
+  const licenseBadge = renderLicenseBadge(data.license);
+  const licenseSection = renderLicenseSection(data.license);
+
   return `
 # ${data.title}
+${licenseBadge}
 
 ## Description
 
@@ -45,9 +48,7 @@ ${data.installation}
 
 ${data.usage}
 
-## License
-
-${data.license}
+${licenseSection}
 
 ## Contributing
 
@@ -64,9 +65,11 @@ ${data.credits}
 
 ## Questions
 
-If you have any questions, please contact me at ${data.email}, or find me on Github, username: ${data.github}.
+If you have any questions, please contact me at ${data.email}, or use the link to find me on Github! [https://www.github.com/${data.github}](https://www.github.com/${data.github})
 `;
 }
+
+
 
 
 module.exports = generateMarkdown;
