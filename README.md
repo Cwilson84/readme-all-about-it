@@ -1,3 +1,44 @@
-# Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+# Module Nine Challenge
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+## Description
+
+The goal of this challenge was to create a readMe file from user inputs into the command line
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+## Installation
+
+none
+
+## Usage
+
+type 'node index.js' into the command line.
+
+## License: 
+MIT License
+
+## Contributing
+
+none at present
+
+## Tests
+
+none
+
+## Credits
+
+W3 Schools, MSN WebDocs, and Google.
+
+
+## Questions
+
+If you have any questions, please contact me at chrisw@myself.com, or use the link to find me on Github! [https://www.github.com/cwilson84](https://www.github.com/cwilson84)
