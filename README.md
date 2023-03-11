@@ -35,7 +35,7 @@ none at present
 none
 
 ## Link to Example README
-Develop\readMe.md
+(https://github.com/Cwilson84/readme-all-about-itDevelop/readMe.md) [Sample README.md] 
 
 ## Credits
 
