@@ -1,10 +1,10 @@
 
-# Module Nine Challenge
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# Sample Project
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 
-The goal of this challenge was to create a readMe file from user inputs into the command line
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Table of Contents
 
@@ -17,28 +17,28 @@ The goal of this challenge was to create a readMe file from user inputs into the
 
 ## Installation
 
-none
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
 
 ## Usage
 
-type 'node index.js' into the command line.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 ## License: 
-MIT License
+GNU License
 
 ## Contributing
 
-none at present
+None at present
 
 ## Tests
 
-none
+Testing instructions here
 
 ## Credits
 
-W3 Schools, MSN WebDocs, and Google.
+nope
 
 
 ## Questions
 
-If you have any questions, please contact me at chrisw@myself.com, or use the link to find me on Github! [https://www.github.com/cwilson84](https://www.github.com/cwilson84)
+If you have any questions, please contact me at example@gmail.com, or use the link to find me on Github! [https://www.github.com/example](https://www.github.com/example)
