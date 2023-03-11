@@ -35,7 +35,7 @@ none at present
 none
 
 ## Link to Example README
-(https://github.com/cwilson84/readme-all-about-it/Develop/readMe.md) [Sample README.md] 
+(https://github.com/Cwilson84/readme-all-about-it/blob/main/Develop/readMe.md) [Sample README.md] 
 
 ## Credits
 
