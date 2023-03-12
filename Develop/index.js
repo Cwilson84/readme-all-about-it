@@ -24,7 +24,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What are the steps (if any) for installation?",
+        message: "What are the steps for installation?",
         name: "installation",
     },
     {
